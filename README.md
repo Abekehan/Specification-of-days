@@ -52,7 +52,7 @@ Planned improvements:
 - pandas
 
 
-![Screenshot](images/scr.png)
+![Screenshot](images/Scr.png)
 
 Install dependencies:
 ```bash
